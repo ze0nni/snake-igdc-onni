@@ -1,0 +1,2 @@
+1. Put in /your_server/cgi-bin/score.pl for submit score and /your_server/cgi-bin/viewscore.pl for comfortabl view.
+2. Change server name in PyBoardClass.cs
